@@ -7,6 +7,7 @@
 */
 int main(void)
 {
+char ch;
 char ch = 'a';
 char ch = 'A';
 /*print a-z*/
