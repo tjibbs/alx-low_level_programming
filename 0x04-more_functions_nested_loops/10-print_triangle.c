@@ -18,8 +18,8 @@ void print_triangle(int size)
 	else
 	{
 		for (hght = 1; hght <= size; ++hght)
-		{	
-			for (base = 1; base <=size; ++base)
+		{
+			for (base = 1; base < = size; ++base)
 			{
 				if ((hght + base) <= size)
 					_putchar(' ');
