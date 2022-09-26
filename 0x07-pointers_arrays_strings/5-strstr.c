@@ -20,7 +20,7 @@ char *_strstr(char *haystack, char *needle)
 	int index;
 
 	if (*needle == 0)
-		return (hastack);
+		return (haystack);
 	while (*haystack)
 	{
 		index = 0;
