@@ -11,8 +11,3 @@ int main(void)
 char ch;
 for (ch = 'a' ; ch <= 'z' ; ch++)
 {
-	Putchar(ch);
-}
-putchar('\n');
-return (0);
-}
